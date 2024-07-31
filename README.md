@@ -22,6 +22,8 @@ img align="right"  />
   <ul> 
     <li> Presentation: https://www.youtube.com/watch?v=I8ltH6REyzo&ab_channel=EarthLabCUBoulder <li>
     <li> PIC? <li>
+      <img src="The Logos.jpg" width="300" height= "400"
+ />
   </ul>
 <li> Predicting Streamflow Data from Snowpack: An Exploration (CIRES/EDSC) </li>
   <ul> 
