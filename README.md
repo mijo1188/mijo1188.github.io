@@ -23,6 +23,7 @@ img align="right"  />
 <li> Water Quantity, Quality, and Accessibility on the Dine (Navajo) Reservation (CIRES/ESIIL)
   <ul> 
     <li> Presentation: https://www.youtube.com/watchv=I8ltH6REyzo&ab_channel=EarthLabCUBoulder </li> 
+    <p align="center">
       <img src="LogoESIIL.JPG" 
         Height = "100" Width = "550"
 </ul>
@@ -32,8 +33,9 @@ img align="right"  />
  <ul>
     <li> Presentation:https://www.youtube.com/watch?v=w3hB6zGFr-Q&ab_channel=EarthLabCUBoulder </li>
   <li> Blog: https://earthlab.colorado.edu/blog/predicting-streamflow-data-snowpack-exploration </li>
+   <p align="center">
       <img src="EarthLab.JPG" 
-        Height = "100" Width = "350"
+        Height = "100" Width = "350" 
        </ul>
          </ul>
 
@@ -41,8 +43,9 @@ img align="right"  />
 <li> Metro Waste Water Pollution Mitigation (Colorado Department of Public Health and Environment) 
    <ul> 
     <li> LINK </li>
+     <p align="center">
        <img src="LogoMWW.JPG" 
-        Height = "100" Width = "400"
+        Height = "100" Width = "400" />
 </ul>
 </ul>
 </ul>
