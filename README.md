@@ -5,7 +5,7 @@
 
 
 ## Contact info:
-<img src="headshot.jpg" width="300" height= "400"
+<img src="headshot.jpg" width="150" height= "200"
 img align="right"  />
 <ul> 
 <li> Name: Michela Johnson </li>
@@ -16,24 +16,35 @@ img align="right"  />
 <li> Degree: Bachelors of Science in Environmental Engineering </li>
 </ul>
 
+
+
 ## Projects:
 <ul> 
-<li> Water Quantity, Quality, and Accessibility on the Dine (Navajo) Reservation (CIRES/ESIIL) </li>
+<li> Water Quantity, Quality, and Accessibility on the Dine (Navajo) Reservation (CIRES/ESIIL)
   <ul> 
-    <li> Presentation: https://www.youtube.com/watch?v=I8ltH6REyzo&ab_channel=EarthLabCUBoulder <li>
-    <li> PIC? <li>
-      <img src="The Logos.jpg" width="300" height= "400"
- />
-  </ul>
-<li> Predicting Streamflow Data from Snowpack: An Exploration (CIRES/EDSC) </li>
-  <ul> 
-    <li> Presentation:https://www.youtube.com/watch?v=w3hB6zGFr-Q&ab_channel=EarthLabCUBoulder <li>
-    Blog: https://earthlab.colorado.edu/blog/predicting-streamflow-data-snowpack-exploration
-  </ul>
-<li> Metro Waste Water Pollution Mitigation (Colorado Department of Public Health and Environment) </li>
+    <li> Presentation: https://www.youtube.com/watchv=I8ltH6REyzo&ab_channel=EarthLabCUBoulder </li> 
+      <img src="LogoESIIL.JPG" 
+        Height = "100" Width = "550"
+</ul>
+    </ul>
+
+<li> Predicting Streamflow Data from Snowpack: An Exploration (CIRES/EDSC) 
+ <ul>
+    <li> Presentation:https://www.youtube.com/watch?v=w3hB6zGFr-Q&ab_channel=EarthLabCUBoulder </li>
+  <li> Blog: https://earthlab.colorado.edu/blog/predicting-streamflow-data-snowpack-exploration </li>
+      <img src="EarthLab.JPG" 
+        Height = "100" Width = "350"
+       </ul>
+         </ul>
+
+
+<li> Metro Waste Water Pollution Mitigation (Colorado Department of Public Health and Environment) 
    <ul> 
-    <li> LINK <li>
-  </ul>
+    <li> LINK </li>
+       <img src="LogoMWW.JPG" 
+        Height = "100" Width = "400"
+</ul>
+</ul>
 </ul>
 
 
