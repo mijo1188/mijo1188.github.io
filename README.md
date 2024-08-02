@@ -10,7 +10,6 @@ img align="right"  />
 <ul> 
 <li> Name: Michela Johnson </li>
 <li> Email: michelaj1188@outlook.com 📩</li>
-<li> Phone: (720)-551-2030 ☎ </li>
 <li> LinkedIn: linkedin.com/in/michela-johnson-363545217 📸 </li>
 <li> School: University of Colorado Boulder, Spring 2024 Grad 🐃 </li>
 <li> Degree: Bachelors of Science in Environmental Engineering </li>
