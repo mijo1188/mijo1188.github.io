@@ -23,7 +23,7 @@
     <li> <strong> Presentation: </strong> https://www.youtube.com/watchv=I8ltH6REyzo&ab_channel=EarthLabCUBoulder </li> 
     <p align="center">
       <img src="LogoESIIL.JPG" 
-        Height = "100" Width = "550"
+        Height = "100" Width = "600"
 </ul>
     </ul>
 
@@ -51,8 +51,8 @@
 
 
 ## Publications & Appearances:
- <img src="CULogo.JPG" 
-        Height = "100" Width = "400" img align="right"/>
+ <img src="CULogo.jpg" 
+        Height = "100" Width = "100" img align="right"/>
 <ul> 
 <li> <strong> Fostering the Development of Earth Data Science Skills in a Diverse Community of Online Learners: A Case Study of the Earth Data Science Corps (CIRES) </strong> </li>
   <ul> 
