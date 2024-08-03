@@ -9,9 +9,9 @@
 <ul> 
 <li> <strong> Name: </strong> Michela Johnson </li>
 <li> <strong> Email: </strong> michelaj1188@outlook.com 📩</li>
-<li> <strong> LinkedIn: </strong>: linkedin.com/in/michela-johnson-363545217 🔗 </li>
+<li> <strong> LinkedIn: </strong>: linkedin.com/in/michela-johnson-363545217 🌐 </li>
 <li> <strong> School: </strong> University of Colorado Boulder, Spring 2024 Grad 🐃 </li>
-<li> <strong> Degree: </strong> Bachelors of Science in Environmental Engineering 🌐</li>
+<li> <strong> Degree: </strong> Bachelors of Science in Environmental Engineering 🍃 </li>
 </ul>
 
 
