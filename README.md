@@ -5,14 +5,13 @@
 
 
 ## Contact info:
-<img src="headshot.jpg" width="150" height= "200"
-img align="right"  />
+<img src="headshot.jpg" width="150" height= "195" img align="right"/>
 <ul> 
 <li> <strong> Name: </strong> Michela Johnson </li>
 <li> <strong> Email: </strong> michelaj1188@outlook.com 📩</li>
-<li> <strong> LinkedIn: </strong>: linkedin.com/in/michela-johnson-363545217 📸 </li>
+<li> <strong> LinkedIn: </strong>: linkedin.com/in/michela-johnson-363545217 🔗 </li>
 <li> <strong> School: </strong> University of Colorado Boulder, Spring 2024 Grad 🐃 </li>
-<li> <strong> Degree: </strong> Bachelors of Science in Environmental Engineering </li>
+<li> <strong> Degree: </strong> Bachelors of Science in Environmental Engineering 🌐</li>
 </ul>
 
 
@@ -52,12 +51,14 @@ img align="right"  />
 
 
 ## Publications & Appearances:
+ <img src="CULogo.JPG" 
+        Height = "100" Width = "400" img align="right"/>
 <ul> 
 <li> <strong> Fostering the Development of Earth Data Science Skills in a Diverse Community of Online Learners: A Case Study of the Earth Data Science Corps (CIRES) </strong> </li>
   <ul> 
     <li> Quarderer, N. A., Wasser, L., Gold, A. U., Montaño, P., Herwehe, L., Halama, K., Johnson, M., ..., Balch, J. (2024). Fostering the Development of Earth Data Science Skills in a Diverse Community of Online Learners: A Case Study of the Earth Data Science Corps. Journal of Statistics and Data Science Education, 1–13. <li>
       https://doi.org/10.1080/26939169.2024.2362886 
-    <li> PIC? <li>
+    
   </ul>
 <li> <strong> Water Quantity, Quality, and Accessibility on the Dine (Navajo) Reservation (CIRES/ESIIL) </strong> </li>
   <ul> 
@@ -69,7 +70,6 @@ img align="right"  />
   <li> Monaco, I., Johnson, M., Tran, M., Kamenetskiy, R., Vakhutinsky, S., Rangwala, I., Thota, P., & Travis, W. (2022, November 18). Predicting Streamflow Data from Snowpack: An Exploration. Figshare.com. <li>
   https://doi.org/10.6084/m9.figshare.21583491.v2 
   </ul>
-   
-    <li> LINK <li>
+
   </ul>
 </ul>
