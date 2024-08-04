@@ -20,7 +20,7 @@
     - [Presentation Video](https://www.youtube.com/watch?v=I8ltH6REyzo)
    <p align="center">
       <img src="LogoESIIL.JPG" 
-        Height = "100" Width = "600"
+        Height = "100" Width = "600" />
 - **Predicting Streamflow Data from Snowpack: An Exploration (CIRES/EDSC)**
     - [Presentation Video](https://www.youtube.com/watch?v=w3hB6zGFr-Q&ab_channel=EarthLabCUBoulder) 
     - [Blog](https://earthlab.colorado.edu/blog/predicting-streamflow-data-snowpack-exploration)
