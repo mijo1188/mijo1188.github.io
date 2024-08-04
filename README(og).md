@@ -21,11 +21,12 @@
   
    <p align="center">
       <img src="LogoESIIL.JPG" 
-        Height = "100" Width = "600"
+        Height = "100" Width = "600" />
     
 - **Predicting Streamflow Data from Snowpack: An Exploration (CIRES/EDSC)**
     - [Presentation Video](https://www.youtube.com/watch?v=w3hB6zGFr-Q&ab_channel=EarthLabCUBoulder) 
     - [Blog](https://earthlab.colorado.edu/blog/predicting-streamflow-data-snowpack-exploration)
+  
  <p align="center">
       <img src="EarthLab.JPG" 
         Height = "100" Width = "350" />
@@ -33,6 +34,7 @@
 - **Metro Waste Water Pollution Mitigation (Colorado Department of Public Health and Environment)**
      - [Presentation](https://drive.google.com/file/d/1aSRuz1rF5L0bGvu2tux_wTd0l6bRyhEj/view?usp=sharing)
      - [Design Proposal](https://drive.google.com/file/d/1G-6rgwWbJJHqQt3QZHuGDj1wC-FZci6y/view)
+  
  <p align="center">
        <img src="LogoMWW.JPG" 
         Height = "100" Width = "400" />
