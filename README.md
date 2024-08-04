@@ -48,12 +48,15 @@
 ## Publications & Appearances:
  <img src="CULogo.jpg" 
         Height = "100" Width = "100" img align="right"/>
+
 - **Fostering the Development of Earth Data Science Skills in a Diverse Community of Online Learners: A Case Study of the Earth Data Science Corps (CIRES)**
     - Quarderer, N. A., Wasser, L., Gold, A. U., Montaño, P., Herwehe, L., Halama, K., Johnson, M., ..., Balch, J. (2024). Fostering the Development of Earth Data Science Skills in a Diverse Community of Online Learners: A Case Study of the Earth Data Science Corps. Journal of Statistics and Data Science Education, 1–13.
     - [Article](https://www.tandfonline.com/doi/full/10.1080/26939169.2024.2362886)
+
 - **Water Quantity, Quality, and Accessibility on the Dine (Navajo) Reservation (CIRES/ESIIL)**
     - Sheldon, S., Leedle, C., Patrick, R., Smedes, M., Johnson, M., Jacquez, N., Rohlehr, K., Brady, S., & Parr, D. (2024, May 16). Water Quantity, Quality, and Accessibility on the Diné (Navajo) Reservation. Figshare.com.
     - [Presentation](https://doi.org/10.6084/m9.figshare.25843900.v1)
+    
 - **Predicting Streamflow Data from Snowpack: An Exploration (CIRES/EDSC)**
     - Monaco, I., Johnson, M., Tran, M., Kamenetskiy, R., Vakhutinsky, S., Rangwala, I., Thota, P., & Travis, W. (2022, November 18). Predicting Streamflow Data from Snowpack: An Exploration. Figshare.com.
     - [Presentation]( https://doi.org/10.6084/m9.figshare.21583491.v2 )
