@@ -20,7 +20,7 @@
 <ul> 
 <li> <strong> Water Quantity, Quality, and Accessibility on the Dine (Navajo) Reservation (CIRES/ESIIL)</strong>
   <ul> 
-    <li> <strong> Presentation: </strong> [https://www.youtube.com/watchv=I8ltH6REyzo&ab_channel=EarthLabCUBoulder] </li> 
+    <li> <strong> [Presentation] </strong> (https://www.youtube.com/watchv=I8ltH6REyzo&ab_channel=EarthLabCUBoulder) </li> 
     <p align="center">
       <img src="LogoESIIL.JPG" 
         Height = "100" Width = "600"
