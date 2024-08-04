@@ -17,7 +17,7 @@
 
 ## Projects:
 - **Water Quantity, Quality, and Accessibility on the Dine (Navajo) Reservation (CIRES/ESIIL)**
-    - [Presentation Video](https://www.youtube.com/watchv=I8ltH6REyzo&ab_channel=EarthLabCUBoulder)
+    - [Presentation Video](https://www.youtube.com/watch?v=I8ltH6REyzo)
    <p align="center">
       <img src="LogoESIIL.JPG" 
         Height = "100" Width = "600"
