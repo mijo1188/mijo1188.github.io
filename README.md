@@ -60,5 +60,13 @@
 - **Predicting Streamflow Data from Snowpack: An Exploration (CIRES/EDSC)**
     - Monaco, I., Johnson, M., Tran, M., Kamenetskiy, R., Vakhutinsky, S., Rangwala, I., Thota, P., & Travis, W. (2022, November 18). Predicting Streamflow Data from Snowpack: An Exploration. Figshare.com.
     - [Presentation]( https://doi.org/10.6084/m9.figshare.21583491.v2 )
-   
+
+- **Maximum Monthly Levels of Heavy Metal Contaminats (Arsenic/Aluminium) Found in the Animas River (2006-2022)**
+    <p align="center">
+       <img src="TheGraphs.JPG" 
+        Height = "500" Width = "700" />
+- **Predicting Streamflow Data from Snowpack: McClure Pass**
+   <p align="center">
+       <img src="McClure_plots.PNG" 
+        Height = "900" Width = "700" />
 
