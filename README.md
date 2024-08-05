@@ -16,7 +16,7 @@
 
 
 ## Projects:
-- **Water Quantity, Quality, and Accessibility on the Dine (Navajo) Reservation (CIRES/ESIIL)**
+- **Water Quantity, Quality, and Accessibility on the Diné  (Navajo) Reservation (CIRES/ESIIL)**
     - [Presentation Video](https://www.youtube.com/watch?v=I8ltH6REyzo)
 
    <p align="center">
@@ -53,7 +53,7 @@
     - Quarderer, N. A., Wasser, L., Gold, A. U., Montaño, P., Herwehe, L., Halama, K., Johnson, M., ..., Balch, J. (2024). Fostering the Development of Earth Data Science Skills in a Diverse Community of Online Learners: A Case Study of the Earth Data Science Corps. Journal of Statistics and Data Science Education, 1–13.
     - [Article](https://www.tandfonline.com/doi/full/10.1080/26939169.2024.2362886)
 
-- **Water Quantity, Quality, and Accessibility on the Dine (Navajo) Reservation (CIRES/ESIIL)**
+- **Water Quantity, Quality, and Accessibility on the Diné  (Navajo) Reservation (CIRES/ESIIL)**
     - Sheldon, S., Leedle, C., Patrick, R., Smedes, M., Johnson, M., Jacquez, N., Rohlehr, K., Brady, S., & Parr, D. (2024, May 16). Water Quantity, Quality, and Accessibility on the Diné (Navajo) Reservation. Figshare.com.
     - [Presentation](https://doi.org/10.6084/m9.figshare.25843900.v1)
     
