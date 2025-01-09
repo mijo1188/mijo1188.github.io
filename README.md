@@ -70,4 +70,8 @@
    <p align="center">
        <img src="McClure_plots.PNG" 
         Height = "900" Width = "700" />
+- **Predicting Streamflow Data from Snowpack: McClure Pass**
+   <p align="center">
+       <img src="McClure_plots.PNG" 
+        Height = "900" Width = "700" />
 
