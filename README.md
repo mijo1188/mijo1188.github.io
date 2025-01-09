@@ -66,10 +66,10 @@
     <p align="center">
        <img src="As Group pic.JPG" 
         Height = "1000" Width = "900" />
-- **Predicting Streamflow Data from Snowpack: McClure Pass**
+- **Interactive Map Code**
    <p align="center">
-       <img src="McClure_plots.PNG" 
-        Height = "900" Width = "700" />
+       <img src="Map code FIN.JPG" 
+        Height = "1000" Width = "900" />
 - **Predicting Streamflow Data from Snowpack: McClure Pass**
    <p align="center">
        <img src="McClure_plots.PNG" 
