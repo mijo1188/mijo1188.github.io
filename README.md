@@ -65,7 +65,7 @@
 - **Maximum Monthly Levels of Heavy Metal Contaminantion (Arsenic) in the Animas River (2006-2022) Graph + Data Manipulation**
     <p align="center">
        <img src="As Group pic.JPG" 
-        Height = "1000" Width = "700" />
+        Height = "1000" Width = "900" />
 - **Predicting Streamflow Data from Snowpack: McClure Pass**
    <p align="center">
        <img src="McClure_plots.PNG" 
