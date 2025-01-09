@@ -62,9 +62,9 @@
     - [Presentation]( https://doi.org/10.6084/m9.figshare.21583491.v2 )
 
 ## Coding Examples:
-- **Maximum Monthly Levels of Heavy Metal Contaminants (Arsenic/Aluminium) Found in the Animas River (2006-2022)**
+- **Maximum Monthly Levels of Heavy Metal Contaminantion (Arsenic) in the Animas River (2006-2022) + Data Manipulation**
     <p align="center">
-       <img src="TheGraphs.JPG" 
+       <img src="As Group pic.JPG" 
         Height = "500" Width = "700" />
 - **Predicting Streamflow Data from Snowpack: McClure Pass**
    <p align="center">
